@@ -1,5 +1,5 @@
 # WinForms TreeView Getting Started
-[TreeViewAdv]( https://www.syncfusion.com/winforms-ui-controls/treeview) displays a collection of data in hierarchical tree structure and the data in tree view can be expanded and collapsed. It offers many features like drag-and-drop, load on demand, context menus and data binding. The control comes with complete design time support.
+[WinForms TreeViewAdv](https://www.syncfusion.com/winforms-ui-controls/treeview?utm_source=github&utm_medium=listing&utm_campaign=winforms-treeview-github-samples) displays a collection of data in hierarchical tree structure and the data in tree view can be expanded and collapsed. It offers many features like drag-and-drop, load on demand, context menus and data binding. The control comes with complete design time support.
 
 ![TreeView Getting Started](Image/TreeView_GettingStarted.png)
 
@@ -34,9 +34,7 @@ The [style architecture](https://help.syncfusion.com/windowsforms/treeview/style
 - Child: Defined in a parent node that applies to all immediate children of the parent node.
 - Node level: Defined for nodes at a particular level in the tree.
 - Node specific: Defined in each node.
-In addition, users can define base styles that can be inherited when defining any of these styles.
-
-[Styling documentation](https://help.syncfusion.com/windowsforms/treeview/styles-architecture?utm_source=github&utm_medium=listing&utm_campaign=winforms-treeview-github-samples)
+In addition, users can define base styles that can be inherited when defining any of these styles.teams
 
 ## Sorting
 Sort nodes at any level using the text, check box, and tag properties, or customize the sort key on which sorting is performed.
@@ -88,5 +86,5 @@ Today we provide 1700+ controls and frameworks for web ([Blazor](https://www.syn
 <hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
 
 <p align="center">
-  <a href="mailto:sales@syncfusion.com?Subject=Syncfusion WinForms UI Controls - Visual Studio Marketplace" target="_top">sales@syncfusion.com</a>   | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=winforms-treeview-github-samples">www.syncfusion.com</a>  | Toll Free: 1-888-9 DOTNET <br>
+  <a href="mailto:sales@syncfusion.com?Subject=Syncfusion WinForms Treeview - GitHub" target="_top">sales@syncfusion.com</a>   | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=winforms-treeview-github-samples">www.syncfusion.com</a>  | Toll Free: 1-888-9 DOTNET <br>
 </p>
